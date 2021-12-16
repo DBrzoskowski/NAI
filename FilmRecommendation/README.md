@@ -19,3 +19,4 @@
 `python --user "Paweł Czapiewski" --metric "mh"`
 
 ![image](https://user-images.githubusercontent.com/29002631/142722620-b931145a-9b78-427e-bf0d-49eeb588047d.png)
+![image](https://user-images.githubusercontent.com/29002631/142722620-b931145a-9b78-427e-bf0d-49eeb588047d.png)
