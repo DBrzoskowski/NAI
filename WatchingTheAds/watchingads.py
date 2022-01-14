@@ -18,6 +18,8 @@ Description:
         https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
         https://www.youtube.com/watch?v=mPCZLOVTEc4
         https://www.youtube.com/watch?v=88HdqNDQsEk
+    3. Movie with example:
+        https://streamable.com/pgkxct
 """
 
 cap = cv2.VideoCapture(0)
